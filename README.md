@@ -1,3 +1,3 @@
 # imgFlashCards
 
-Online hosting of my study flashcards (Anki App).
+Online hosting of my study ([Anki](https://apps.ankiweb.net/)) flashcards.
